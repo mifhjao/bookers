@@ -5,7 +5,7 @@ class BooksController < ApplicationController
   def index
   end
 
-  def sho
+  def show
   end
 
   def edit
